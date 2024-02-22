@@ -30,9 +30,7 @@ screenshots will be updated here as completed (or imgur and referenced with imgs
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://imgur.com/a/AcOyCi0">
-  <img alt="Screenshot of VirusTotal File Hash Analysis" src="https://imgur.com/a/AcOyCi0">
-</picture>
+![Screenshot of VirusTotal File Hash Analysis](https://imgur.com/a/AcOyCi0)
+
 
 *Ref 1: File Hash Analysis*
