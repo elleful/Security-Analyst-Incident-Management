@@ -30,5 +30,6 @@ screenshots will be updated here as completed (or imgur and referenced with imgs
 
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/AcOyCi0" data-context="false" ><a href="//imgur.com/a/AcOyCi0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://example.com/path/to/your/image.jpg" alt="Description of the image">
+
 *Ref 1: File Hash Analysis*
