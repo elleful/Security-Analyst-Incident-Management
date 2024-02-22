@@ -25,10 +25,8 @@ The purpose of this project was to work as a Security Analyst tasked with invest
 
 
 ## Steps
-screenshots will be updated here as completed (or imgur and referenced with imgsrc)
 
-
-
+Threat Analysis
 
 ![Screenshot of VirusTotal File Hash Analysis](https://i.imgur.com/QrxlMAz.png)
 
