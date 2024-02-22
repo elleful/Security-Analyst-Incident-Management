@@ -32,3 +32,7 @@ Threat Analysis
 
 
 *Ref 1: File Hash Analysis*
+
+## Conclusion
+
+An end of project review of key information and reflections overall.
