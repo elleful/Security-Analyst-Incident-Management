@@ -30,7 +30,7 @@ screenshots will be updated here as completed (or imgur and referenced with imgs
 
 
 
-![Screenshot of VirusTotal File Hash Analysis](https://imgur.com/a/AcOyCi0)
+![Screenshot of VirusTotal File Hash Analysis](https://i.imgur.com/QrxlMAz.png)
 
 
 *Ref 1: File Hash Analysis*
