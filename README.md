@@ -30,5 +30,5 @@ screenshots will be updated here as completed (or imgur and referenced with imgs
 
 
 
-![Screenshot of Fire Hash Analysis from Virus Total](https://imgur.com/a/AcOyCi0)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/AcOyCi0" data-context="false" ><a href="//imgur.com/a/AcOyCi0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 *Ref 1: File Hash Analysis*
