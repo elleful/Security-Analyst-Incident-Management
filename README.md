@@ -9,6 +9,7 @@ The purpose of this project was to work as a Security Analyst tasked with invest
 
 ### Skills Learned
 
+- Threat Identification
 - Malware Analysis
 - Executable File Analysis
 - Containment Planning
@@ -16,7 +17,9 @@ The purpose of this project was to work as a Security Analyst tasked with invest
 
 ### Tools Used
 
-- NIST Computer Security Incident Handling Guide 
+- NIST Computer Security Incident Handling Guide
+- Virustotal
+- Crowdstrike
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 
@@ -26,6 +29,6 @@ screenshots will be updated here as completed (or imgur and referenced with imgs
 
 
 
-Example below.
 
-*Ref 1: Data Visualization*
+
+*Ref 1: File Hash Analysis*
