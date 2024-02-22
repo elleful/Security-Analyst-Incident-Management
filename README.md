@@ -35,4 +35,5 @@ Threat Analysis
 
 ## Conclusion
 
-An end-of-project review of key information and reflections overall *updating at end of sprint March 2024*.
+An end-of-project review of key information and reflections overall.
+*updating at end of sprint March 2024*.
