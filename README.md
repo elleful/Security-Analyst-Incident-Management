@@ -72,9 +72,9 @@ IPs with positives:
 ***80.172.96.91 Claranet Limited 67 Detections.***
 Showing communicating files -1 communicated file and 7 referrer files -  (type Win32 EXE) name bcwvzwbh.exe based out of Portugal 
 
-! [VirusTotal Detection - Photo 1](https://imgur.com/a/W0XLxas)
-! [VirusTotal Detection - Photo 2](https://imgur.com/a/bOTlTOf)
-! [VirusTotal Detection - Photo 3](https://imgur.com/a/ma6wGgA)
+![VirusTotal Detection - Photo 1](https://imgur.com/a/W0XLxas)
+![VirusTotal Detection - Photo 2](https://imgur.com/a/bOTlTOf)
+![VirusTotal Detection - Photo 3](https://imgur.com/a/ma6wGgA)
 
 
 
