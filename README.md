@@ -13,6 +13,7 @@ Responsible for handling and mitigating threats based on the NIST Incident Respo
 - MITRE ATT&CK TTPs
 - Host and Firewall Log Analysis
 - Network Analysis
+- Data Correlation
 - Containment Planning
 - Incident Reporting
 - Python Scripting
@@ -89,9 +90,7 @@ Showing communicating files -1 communicated file and 7 referrer files -  (type W
 8. Creates processes and runs shell commands.
 
 
-
 ## Conclusion
 
-An end-of-project review of key information and reflections overall.
+An employee clicked on a deceptive email link and threat actor gains unauthorized access to the network. There are multiple failed attempts to gain high-level access and altered system settings to reduce detection. Finally, sensitive patient data accessed and virus deployed to exfiltrate information causing network slowdown.  
 
-*updating at end of sprint March 2024*.
