@@ -65,7 +65,7 @@ Lots of international IP traffic despite being a NY medical clinic.
 IPs with positives:
 117.80.77.27 (HTTP: //117.80.77.27 and https: //177.80.77.27) 1 Positive
 
-185.106.39.198 (https://13989180986.com) 1 Positive
+185.106.39.198 (https: //13989180986.com) 1 Positive
 
 ***80.172.96.91 Claranet Limited 67 Detections.***
 Showing communicating files -1 communicated file and 7 referrer files -  (type Win32 EXE) name bcwvzwbh.exe based out of Portugal 
