@@ -56,12 +56,9 @@ File Open/Close or Read/Write of MS SQL Server warning (log2) might be connected
 
 MS SQL Server warning information was not definitive and could be researched further. Threat Analysis
 
-![Screenshot of VirusTotal File Hash Analysis](https://i.imgur.com/QrxlMAz.png)
-
-
-*Ref 1: File Hash Analysis*
 
 ***Network Traffic and IP Log Analysis***
+
 Lots of international IP traffic despite being a NY medical clinic.
 
 IPs with positives:
@@ -73,8 +70,23 @@ IPs with positives:
 Showing communicating files -1 communicated file and 7 referrer files -  (type Win32 EXE) name bcwvzwbh.exe based out of Portugal 
 
 ![VirusTotal Detection - Photo 1](https://i.imgur.com/FzJW6Jw.png)
+*Ref 1: CC Communication*
 ![VirusTotal Detection - Photo 2](https://i.imgur.com/OpEgfx9.png)
+*Ref 2: IP Identified on network associated with file communication*
 ![VirusTotal Detection - Photo 3](https://i.imgur.com/OY1sS2I.png)
+*Ref 1: 67 Detections*
+
+**Key Behaviors of the malicious file:**
+*Note: Appears to have been detected as Linux Trojan Rbot by Elastic Security*
+
+1. Checks for Virtualization/Sandboxes to avoid being debugged (picked apart for data exfiltration of the attacker).
+2. File data is also obfuscated and encrypted.
+3. Creates an input object to capture keystrokes (records typing on the host to steal credentials).
+4. Reads software policies.
+5. Enumerates the file system.
+6. Opens and writes files.
+7. Enumerates registry and sets keys.
+8. Creates processes and runs shell commands.
 
 
 
