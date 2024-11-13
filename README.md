@@ -63,7 +63,7 @@ MS SQL Server warning information was not definitive and could be researched fur
 Lots of international IP traffic despite being a NY medical clinic.
 
 IPs with positives:
-117.80.77.27 (http://117.80.77.27 and https://177.80.77.27) 1 Positive
+117.80.77.27 (HTTP: //117.80.77.27 and https: //177.80.77.27) 1 Positive
 
 185.106.39.198 (https://13989180986.com) 1 Positive
 
