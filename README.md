@@ -72,8 +72,10 @@ Showing communicating files -1 communicated file and 7 referrer files -  (type W
 
 ![VirusTotal Detection - Photo 1](https://i.imgur.com/FzJW6Jw.png)
 *Ref 1: CC Communication*
+
 ![VirusTotal Detection - Photo 2](https://i.imgur.com/OpEgfx9.png)
 *Ref 2: IP Identified on network associated with file communication*
+
 ![VirusTotal Detection - Photo 3](https://i.imgur.com/OY1sS2I.png)
 *Ref 1: 67 Detections*
 
